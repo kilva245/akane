@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilva245&label=Profile%20views&color=0e75b6&style=flat" alt="kilva245" /> </p>
 
 
-
 - 🔭 I’m currently working on **manga sekai**
 
 - 🌱 I’m currently learning **ethical hacking and python**
