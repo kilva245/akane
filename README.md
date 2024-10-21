@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm kilva</h1>
 <h3 align="center">programmer and CEH lover from iran.</h3>
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://64.media.tumblr.com/bfdb2e75c8df36dcc9cb424afb3829a2/0727fe47787d0a0c-d8/s540x810/a76a693c4af7bde413ba288614b116899fcf5dfb.gif">
-
+<div style="width: 100%; display: flex; justify-content: center ">
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://64.media.tumblr.com/bfdb2e75c8df36dcc9cb424afb3829a2/0727fe47787d0a0c-d8/s540x810/a76a693c4af7bde413ba288614b116899fcf5dfb.gif">
+</div>
 - 🔭 I’m currently working on **manga sekai**
 
 - 🌱 I’m currently learning **ethical hacking and python**
